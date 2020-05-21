@@ -1,0 +1,1 @@
+var playslist = {artist:"song"}
