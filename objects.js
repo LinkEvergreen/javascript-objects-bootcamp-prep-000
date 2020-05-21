@@ -1,1 +1,1 @@
-var playslist = {artistName:'songTitle'}
+var playslist = new Object {artistName:'songTitle'}
