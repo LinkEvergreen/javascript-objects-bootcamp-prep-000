@@ -1,1 +1,1 @@
-var objects = {playlists: "songTitle"}
+Object.assign({} {artist:'songTitle'}
