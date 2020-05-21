@@ -1,1 +1,1 @@
-new object = {playlist, "songTitle"}
+new object = ({playlist: "songTitle"});
